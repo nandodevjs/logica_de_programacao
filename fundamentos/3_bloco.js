@@ -12,12 +12,4 @@
     console.log("Passo 6");
 }
 
-{   
-    {   
-        ;
-        ;
-        ;
-    }
-}
-
 console.log("Fim!");
