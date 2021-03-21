@@ -1,7 +1,7 @@
 const verdadeiro = true;
 const falso = false;
 
-if (true){
+if (true) {
     console.log("Execultar 1");
 }
 else
