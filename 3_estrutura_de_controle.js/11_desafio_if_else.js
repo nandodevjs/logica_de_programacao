@@ -1,13 +1,14 @@
 const a = 10;
 const b = 28;
-const operacao = "-" // + - * / %
+const operacao = "%" // + - * / %
+
 let resultado;
 
-if (operacao === "+"){
-    resultado = a + b;
-}
-else if (operacao === "-"){
+if (operacao === "-"){
     resultado = a - b;
+}
+else if (operacao === "+"){
+    resultado = a = b;
 }
 else if (operacao === "*"){
     resultado = a * b;
@@ -16,7 +17,7 @@ else if (operacao === "/"){
     resultado = a / b;
 }
 else if (operacao === "%"){
-    resultado = a % b; 
+    resultado = a % b;
 }
 
 console.log(resultado);
