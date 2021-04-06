@@ -17,3 +17,5 @@ w += " Fron-tend";
 w += " Jr"
 
 console.log(w);
+
+let mais = 10;
